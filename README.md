@@ -1,7 +1,6 @@
 # Frontend_code_editor
-# Advanced Code Editor
-
-![Advanced Code Editor](https://api.placeholder.com/400/320)
+# Demo_Link https://adarshkumar3.github.io/Frontend_code_editor/
+https://github.com/Adarshkumar3/Frontend_code_editor/blob/main/Web%20capture_15-9-2024_182014_.jpeg
 
 An interactive, responsive, and feature-rich code editor built with HTML, CSS, and JavaScript. This project provides a sleek interface for writing and running code in multiple languages, making it an ideal tool for learning and quick code experimentation.
 
@@ -30,7 +29,7 @@ An interactive, responsive, and feature-rich code editor built with HTML, CSS, a
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/advanced-code-editor.git
+   git clone https://github.com/Adarshkumar3/advanced-code-editor.git
    ```
 
 2. Open `index.html` in your web browser.
